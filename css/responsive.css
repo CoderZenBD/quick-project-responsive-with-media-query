@@ -1,0 +1,399 @@
+/* 
+ Most of the low resulation mobile devices like : Glaxy Fold
+*/
+@media (min-width:279px) and (max-width: 319px) {
+    /* code start */
+      /* Global Css Code Start
+      ***********************************************************************************/
+      .container{
+          width: 279px;
+      }
+      .row{
+          width: 100%;
+          float: left;
+      }
+      .col-6{
+          width: 100%;
+          float: left;
+      }
+      .col-12{
+          width: 100%;
+          float: left;
+      }
+      .col-4{
+          width:100%;
+          float: left;
+      }
+  
+      /*********************************************************************************
+      * Global Css Code End
+      ***********************************************************************************/
+      a.logo {
+          display: block;
+          text-align: center;
+          width: 100%;
+      }
+      .nav {
+          text-align: center;
+      }
+      .nav li a {
+          margin: 0px 0px 0px 9px;
+          color: #0f2656;
+          font-size: 12px;
+          line-height: 23px;
+      }
+      .banner{
+          padding: 30px 0px ;
+      }
+      .banner h1 {
+          font-size: 20px;
+      line-height: 24px;
+  
+      }
+      .banner p {
+          font-size: 10px;
+          line-height: 16px;
+          margin: 5px 6px;
+      }
+      .sucessfull {
+          width: 100%;
+          text-align: center;
+          padding: 0px;
+      }
+      .sucessfull .left-text {
+          text-align: center;
+      }
+      .sucessfull .left-text p {
+          font-size: 10px;
+          line-height: 16px;
+          text-align: center;
+      }
+      .sucessfull .right-text {
+          width: 100%;
+          margin-left: 0px;
+      }
+      .sucessfull .right-text h2 {
+          font-size: 20px;
+          line-height: 24px;
+          margin: 15px 0px;
+      }
+      .inner-feature {
+          width: 72%;
+          margin: 0px 15px 15px;
+      }
+      .inner-feature h5 {
+          font-size: 18px;
+          line-height: 18px;
+      }    
+      .inner-feature p {
+          font-size: 9px;
+          line-height: 19px;
+      }
+  
+      footer p{
+          font-size: 10px;
+          line-height: 68px;
+      }
+      
+      /* code end */
+  }
+  /* 
+   Most of the mobile devices
+  */
+  @media (min-width:320px) and (max-width: 479px) {
+      /* code start */
+      /* Global Css Code Start
+      ***********************************************************************************/
+      .container{
+          width: 320px;
+      }
+      .row{
+          width: 100%;
+          float: left;
+      }
+      .col-6{
+          width: 100%;
+          float: left;
+      }
+      .col-12{
+          width: 100%;
+          float: left;
+      }
+      .col-4{
+          width:100%;
+          float: left;
+      }
+  
+      /*********************************************************************************
+      * Global Css Code End
+      ***********************************************************************************/
+      /* header start */
+      a.logo {
+          display: block;
+          text-align: center;
+          width: 100%;
+      }
+      .nav {
+          text-align: center;
+      }
+      .nav li a {
+          margin: 0px 0px 0px 9px;
+          color: #0f2656;
+          font-size: 12px;
+          line-height: 23px;
+      }
+      .banner{
+          padding: 30px 0px ;
+      }
+      .banner h1 {
+          font-size: 20px;
+      line-height: 24px;
+  
+      }
+      .banner p {
+          font-size: 10px;
+          line-height: 16px;
+          margin: 5px 0px;
+      }
+      .sucessfull {
+          width: 100%;
+          text-align: center;
+          padding: 0px;
+      }
+      .sucessfull .left-text {
+          text-align: center;
+      }
+      .sucessfull .left-text p {
+          font-size: 10px;
+          line-height: 16px;
+          text-align: center;
+      }
+      .sucessfull .right-text {
+          width: 100%;
+          margin-left: 0px;
+      }
+      .sucessfull .right-text h2 {
+          font-size: 20px;
+          line-height: 24px;
+          margin: 15px 0px;
+      }
+      .inner-feature {
+          width: 72%;
+          margin: 0px 15px 15px;
+      }
+      .inner-feature h5 {
+          font-size: 18px;
+          line-height: 21px;
+      }    
+      .inner-feature p {
+          font-size: 9px;
+          line-height: 19px;
+      }
+  
+      footer p{
+          font-size: 10px;
+          line-height: 68px;
+      }
+      
+  
+  
+      /* code end */
+  }
+  /* 
+   Most of the mobile devices, Low resulation Tablet, Ipad
+  */
+  @media (min-width:480px) and (max-width:767px ) {
+   /* code start */
+      /* Global Css Code Start
+      ***********************************************************************************/
+      .container{
+        width: 480px;
+    }
+    .row{
+        width: 100%;
+        float: left;
+    }
+    .col-6{
+        width: 100%;
+        float: left;
+    }
+    .col-12{
+        width: 100%;
+        float: left;
+    }
+    .col-4{
+        width:100%;
+        float: left;
+    }
+
+    /*********************************************************************************
+    * Global Css Code End
+    ***********************************************************************************/
+    /* header start */
+    a.logo {
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+    .nav {
+        text-align: center;
+    }
+    .nav li a {
+        margin: 0px 0px 0px 24px;
+        color: #0f2656;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .banner{
+        padding: 30px 0px ;
+    }
+    .banner h1 {
+        font-size: 28px;
+        line-height: 36px;
+
+    }
+    .banner p {
+        font-size: 14px;
+        line-height: 22px;
+        margin: 10px 0px;
+    }
+    .sucessfull {
+        width: 100%;
+        text-align: center;
+        padding: 0px;
+    }
+    .sucessfull .left-text {
+        text-align: center;
+    }
+    .sucessfull .left-text p {
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+    }
+    .sucessfull .right-text {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .sucessfull .right-text h2 {
+        font-size: 28px;
+        line-height: 36px;
+        margin: 15px 0px;
+    }
+    .inner-feature {
+        width: 81%;
+        margin: 0px 15px 15px;
+    }
+    .inner-feature h5 {
+        font-size: 23px;
+        line-height: 33px;
+    }    
+    .inner-feature p {
+        font-size: 9px;
+        line-height: 19px;
+    }
+
+    footer p{
+        font-size: 10px;
+        line-height: 68px;
+    }
+    /* code end */
+  }
+  /* 
+   Most of the Ipad, Mini Notebook, Tablet
+  */
+  @media (min-width:768px) and (max-width: 992px) {
+     /* code start */
+      /* Global Css Code Start
+      ***********************************************************************************/
+      .container{
+        width: 768px;
+    }
+    .row{
+        width: 100%;
+        float: left;
+    }
+    .col-6{
+        width: 100%;
+        float: left;
+    }
+    .col-12{
+        width: 100%;
+        float: left;
+    }
+    .col-4{
+        width:100%;
+        float: left;
+    }
+
+    /*********************************************************************************
+    * Global Css Code End
+    ***********************************************************************************/
+    /* header start */
+    a.logo {
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+    .nav {
+        text-align: center;
+    }
+    .nav li a {
+        margin: 0px 0px 0px 50px;
+        color: #0f2656;
+        font-size: 27px;
+        line-height: 37px;
+    }
+    .banner{
+        padding: 30px 0px ;
+    }
+    .banner h1 {
+        font-size: 40px;
+        line-height: 50px;
+
+    }
+    .banner p {
+        font-size: 23px;
+        line-height: 33px;
+    }
+    .sucessfull {
+        width: 100%;
+        text-align: center;
+        padding: 0px;
+    }
+    .sucessfull .left-text {
+        text-align: center;
+    }
+    .sucessfull .left-text p {
+        font-size: 23px;
+        line-height: 33px;
+        text-align: center;
+    }
+    .sucessfull .right-text {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .sucessfull .right-text h2 {
+        font-size: 40px;
+        line-height: 50px;
+        margin: 30px 0px;
+    }
+    .inner-feature {
+        width: 88%;
+        margin: 0px 15px 15px;
+    }
+    .inner-feature h5 {
+        font-size: 26px;
+        line-height: 28px;
+    }    
+    .inner-feature p {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    
+
+    footer p{
+        font-size: 20px;
+        line-height: 68px;
+    }
+    /* code end */
+  }

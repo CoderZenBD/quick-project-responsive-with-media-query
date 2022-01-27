@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    overflow-x: hidden;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Noto Sans', sans-serif;;
+    
+}
+a,a:hover{
+    text-decoration: none;
+}
+/********************************************************************************
+*Quick Project Css Code Start
+******************************************************************************** */
+/*********************************************************************************
+* Global Css Code Start
+***********************************************************************************/
+.container{
+    width: 1140px;
+    margin: 0px auto;
+}
+.row{
+    width: 100%;
+    float: left;
+}
+.col-6{
+    width: 50%;
+    float: left;
+}
+.col-12{
+    width: 100%;
+    float: left;
+}
+.col-4{
+    width:33.33%;
+    float: left;
+}
+/*********************************************************************************
+* Global Css Code End
+***********************************************************************************/
+header{
+    width: 100%;
+    float:left;
+    border-bottom: 1px solid #eee;
+    margin: 10px 0px;
+}
+.nav{
+    width: 100%;
+    float: left;
+    text-align: right;
+    margin: 10px 0px 0px;
+}
+.nav li{
+    list-style: none;
+    display: inline-block;
+}
+.nav li a{
+    margin: 0px 0px 0px 25px;
+    color: #0f2656;
+}
+.nav li a:hover{
+    color: #008aff;
+}
+
+/* banner start */
+
+.banner{
+    width: 100%;
+    float: left;
+    padding: 60px 0px;
+    text-align: center;
+}
+.banner h1{
+    font-size: 58px;
+    line-height: 68px;
+    color: #0f2656;
+}
+.banner h1 span{
+    color: #008aff;
+}
+.banner p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #0f2656;
+    margin: 20px 0px;
+}
+.banner .banner-img{
+    width: 60%;
+    margin-top: 15px;
+}
+/* banner end */
+/* sucessfull start */
+.sucessfull{
+    width: 100%;
+    float: left;
+    padding: 20px;
+}
+.sucessfull .left-text{
+    width: 98%;
+    float: left;
+    text-align: right;
+    margin-right: 30px;
+}
+.sucessfull .left-text h2{
+    font-size: 52px;
+    line-height: 62px;
+    color: #f15767;      
+}
+.sucessfull .left-text p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #0f2656;
+}
+.sucessfull .right-text{
+    width: 98%;
+    float: left;
+    margin-left: 30px;
+}
+.sucessfull .right-text h2{
+    font-size: 52px;
+    line-height: 62px;
+    color: #0f2656;   
+}
+/* sucessful end */
+/* feature start */
+.inner-feature{
+    width: 80%;
+    float: left;
+    padding: 40px 30px;
+    margin: 40px 0px;
+    transition: all 1s;
+}
+.inner-feature:hover{
+   box-shadow: 0px 6px 19px 0px #898989;
+}
+.inner-feature img{
+    width: 95%;
+    height: 190px;
+}
+.inner-feature h5{
+    font-size: 26px;
+    line-height:36px;
+    color: #0f2656;
+    margin: 10px 0px;
+}
+.inner-feature p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #0f2656;
+}
+.cl1{
+    background: #fdebed;
+}
+.cl2{
+    background: #ebf9f4;
+}
+.cl3{
+    background: #fff7e8;
+}
+/* feature end */
+/* footer start */
+footer{
+    width: 100%;
+    float: left;
+    background: #008aff;
+    height: 70px;
+    margin-top: 40px;
+    text-align: center;
+}
+footer p{
+    font-size: 16px;
+    line-height: 70px;
+    color: #62c3ff;
+    
+}
+footer p span{
+    color: #eff6ff;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+footer p span a{
+    color: #eff6ff;
+}
+/* footer end */
