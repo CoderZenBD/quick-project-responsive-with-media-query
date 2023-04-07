@@ -1,1 +1,1 @@
-This project live web link :: https://coderzenbd.github.io/quick-project-responsive-with-media-query/
+This project live web link :: https://princewebdev.github.io/quick-project-responsive-with-media-query/
